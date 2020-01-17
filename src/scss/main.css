@@ -1,0 +1,14 @@
+.header {
+  width: 600px;
+  height: 100px;
+  background-color: #d68a18;
+}
+
+
+
+body {
+  color: #170080;
+  display: flex;
+  transition: all 0.2s ease-in;
+  background-color: #000280;
+}
